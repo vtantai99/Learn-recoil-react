@@ -1,0 +1,11 @@
+.section {
+  width: 50%;
+}
+
+.section ul li p {
+  margin: 0;
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+}
